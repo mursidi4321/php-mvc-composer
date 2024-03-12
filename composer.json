@@ -1,0 +1,15 @@
+{
+    "name": "asus/php-mvc-composer",
+    "authors": [
+        {
+            "name": "mursidi4321",
+            "email": "mursidi4321@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\" : "./"
+        }
+    },
+    "require": {}
+}
